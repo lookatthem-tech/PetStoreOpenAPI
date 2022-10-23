@@ -1,2 +1,2 @@
 # rrPetStoreOpenAPI
- 
+theme: slate 

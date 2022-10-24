@@ -12,7 +12,7 @@ html {
 
 body {
     margin: 0;
-    background: white;
+    background: yellow;
 }
 
 
@@ -23,6 +23,10 @@ body {
 
 .download-url-wrapper {
     display: none;
+}
+
+div.swagger.ui {
+    background: gray;
 }
 
 

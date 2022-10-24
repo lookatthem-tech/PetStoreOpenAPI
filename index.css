@@ -21,6 +21,11 @@ body {
     padding: 10px 0;
 }
 
+.download-url-wrapper {
+    display: none;
+}
+
+
 .swagger-ui .topbar .download-url-wrapper .download-url-button {
     display: none;
     background: #89bf04;

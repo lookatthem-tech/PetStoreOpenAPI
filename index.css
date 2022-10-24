@@ -17,7 +17,7 @@ body {
 
 
 .swagger-ui .topbar {
-    background-color: linear-gradient(to right, #005151 0%, #087c79 60%, #005151 100%);
+    background-color: #005151;
     padding: 10px 0;
 }
 

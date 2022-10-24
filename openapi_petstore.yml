@@ -19,7 +19,7 @@ tags:
   - name: pet
     description: This API handles all the important data about our pets.
     externalDocs:
-      description: Find out more:
+      description: Find out more.
       url: http://swagger.io
   - name: store
     description: Access Petstore orders.

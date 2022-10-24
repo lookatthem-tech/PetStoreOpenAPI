@@ -25,6 +25,10 @@ div.form.download-url-wrapper {
     display: none;
 }
 
+div.info {
+    font: verdana;
+}
+
 
 .swagger-ui .topbar .download-url-wrapper .download-url-button {
     display: none;

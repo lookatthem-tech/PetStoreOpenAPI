@@ -22,6 +22,7 @@ body {
 }
 
 .swagger-ui .topbar .download-url-wrapper .download-url-button {
+    display: none;
     background: #89bf04;
     border: none;
     border-radius: 0 4px 4px 0;

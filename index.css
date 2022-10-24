@@ -12,7 +12,7 @@ html {
 
 body {
     margin: 0;
-    background: yellow;
+    background: white;
 }
 
 
@@ -21,12 +21,8 @@ body {
     padding: 10px 0;
 }
 
-.download-url-wrapper {
+div.form.download-url-wrapper {
     display: none;
-}
-
-div.swagger.ui {
-    background: gray;
 }
 
 

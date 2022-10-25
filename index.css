@@ -23,6 +23,19 @@ body {
 }
 
 
+h2.title {
+	color: white;
+}
+
+pre.base-url {
+	color: white;
+}
+
+div.description {
+	color: white;
+}
+
+
 div.scheme-container {
 	background: #0D112B;
 }

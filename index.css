@@ -12,103 +12,17 @@ html {
 
 body {
     margin: 0;
-    background: #0D112B;
-	font-color: white;
+    background: white;
 }
 
 
 .swagger-ui .topbar {
-    background-color: #005151;
+    background-color: #00893E;
     padding: 10px 0;
-	
 }
-
-.swagger-ui {
-    color: white;
-    font-family: Verdana;
-}
-
-
-.swagger-ui .info li, .swagger-ui .info p, .swagger-ui .info table {
-    color: white;
-    font-family: Verdana;
-    font-size: 14px;
-
-
-.swagger-ui .opblock-tag {
-    color: white;
-    font-family: Verdana;
-    font-size: 24px;
-    margin: 0 0 5px;
-	align-items: center;
-    border-bottom: 1px solid white;
-    cursor: pointer;
-    display: flex;
-    padding: 10px 20px 10px 10px;
-    transition: all .2s;
-}
-
-
-.swagger-ui .opblock-tag small {
-    color: white;
-    
-}
-
-.swagger-ui .markdown p, .swagger-ui .markdown pre, .swagger-ui .renderedMarkdown p, .swagger-ui .renderedMarkdown pre {
-    margin: 1em auto;
-    word-break: break-all;
-    word-break: break-word;
-	color: white;
-}
-
-
-.swagger-ui .info .title {
-    color: white;
-    font-family: Verdana;
-    font-size: 36px;
-    margin: 0;
-}
-
-
-pre.base-url {
-	font-color: white;
-}
-
-.description {
-	font-color: white;
-}
-
-
-.opblock-tag-section {
-	font-color: white;
-	
-}
-
-
-.swagger-ui .scheme-container {
-    background: red;
-    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 15%);
-    margin: 0 0 20px;
-    padding: 30px 0;
-}
-
-
-
-
-
-
-.swagger-ui section.models {
-    border: 1px solid white;
-    border-radius: 4px;
-    margin: 30px 0;
-	background-color: black;
-	font-color: white;
-}
-
 
 .swagger-ui .topbar .download-url-wrapper .download-url-button {
-    
-    background: #0D112B;
+    background: #89bf04;
     border: none;
     border-radius: 0 4px 4px 0;
     color: white;

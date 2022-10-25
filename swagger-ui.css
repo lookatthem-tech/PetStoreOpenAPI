@@ -1,5 +1,5 @@
 .swagger-ui{
-    color:#3b4151;
+    color:lightsteelblue;
     /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
     font-family:sans-serif
 }
@@ -35,7 +35,7 @@
 }
 .swagger-ui a{
     -webkit-text-decoration-skip:objects;
-    background-color:transparent
+    background-color:black
 }
 .swagger-ui abbr[title]{
     border-bottom:none;
@@ -7444,15 +7444,14 @@
     text-align:center
 }
 .swagger-ui .scheme-container{
-    background:#555A72;
+    background:#0D112B;
     box-shadow:0 1px 2px 0 rgba(0,0,0,.15);
     margin:0 0 20px;
     padding:30px 0
 }
 .swagger-ui .scheme-container .schemes{
     align-items:flex-end;
-	background-color: black;
-    display:flex
+	display:flex
 }
 .swagger-ui .scheme-container .schemes>label{
     color:#3b4151;
@@ -8385,7 +8384,7 @@
     font-weight:600
 }
 .swagger-ui .topbar{
-    background-color:#1b1b1b;
+    background-color:#005151;
     padding:10px 0
 }
 .swagger-ui .topbar .topbar-wrapper,.swagger-ui .topbar a{
@@ -8513,7 +8512,7 @@
     vertical-align:super
 }
 .swagger-ui .info .title small.version-stamp{
-    background-color:#89bf04
+    background-color:#0D112B
 }
 .swagger-ui .info .title small pre{
     color:#fff;

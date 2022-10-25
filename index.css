@@ -49,6 +49,12 @@ body {
 }
 
 
+.swagger-ui .opblock-tag small {
+    color: white;
+    
+}
+
+
 .swagger-ui .info .title {
     color: white;
     font-family: Verdana;
@@ -73,7 +79,7 @@ pre.base-url {
 
 
 .swagger-ui .scheme-container {
-    background-color: #0D112B;
+    background: red;
     box-shadow: 0 1px 2px 0 rgb(0 0 0 / 15%);
     margin: 0 0 20px;
     padding: 30px 0;

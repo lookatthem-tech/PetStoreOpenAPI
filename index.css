@@ -36,6 +36,12 @@ div.description {
 }
 
 
+div.opblock-tag-section {
+	color: white;
+	background-color: yellow;
+}
+
+
 div.scheme-container {
 	background: #0D112B;
 }

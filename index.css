@@ -20,6 +20,11 @@ body {
 .swagger-ui .topbar {
     background-color: #005151;
     padding: 10px 0;
+	
+}
+
+.swagger-ui {
+	font-color: white;
 }
 
 
@@ -31,18 +36,18 @@ pre.base-url {
 	font-color: white;
 }
 
-div.description {
+.description {
 	font-color: white;
 }
 
 
-div.opblock-tag-section {
+.opblock-tag-section {
 	font-color: white;
 	
 }
 
 
-div.scheme-container {
+.scheme-container {
 	background-color: #0D112B;
 }
 

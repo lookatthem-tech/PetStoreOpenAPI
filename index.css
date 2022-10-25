@@ -13,7 +13,7 @@ html {
 body {
     margin: 0;
     background: #0D112B;
-	color: white;
+	font-color: white;
 }
 
 
@@ -24,27 +24,32 @@ body {
 
 
 h2.title {
-	color: white;
+	font-color: white;
 }
 
 pre.base-url {
-	color: white;
+	font-color: white;
 }
 
 div.description {
-	color: white;
+	font-color: white;
 }
 
 
 div.opblock-tag-section {
-	color: white;
-	background-color: yellow;
+	font-color: white;
+	
 }
 
 
 div.scheme-container {
-	background: #0D112B;
+	background-color: #0D112B;
 }
+
+section.models.is-open {
+	background-color: yellow;
+}
+
 
 .swagger-ui .topbar .download-url-wrapper .download-url-button {
     

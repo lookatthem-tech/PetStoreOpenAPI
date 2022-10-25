@@ -36,7 +36,7 @@
 }
 .swagger-ui a{
     -webkit-text-decoration-skip:objects;
-    background-color:black
+    background-color:#0D112B
 }
 .swagger-ui abbr[title]{
     border-bottom:none;
@@ -8106,9 +8106,10 @@
     margin-top:0
 }
 .swagger-ui section.models{
-    border:1px solid rgba(59,65,81,.3);
+    border:1px solid white;
     border-radius:4px;
-    margin:30px 0
+    margin:30px 0;
+	background-color: black
 }
 .swagger-ui section.models .pointer{
     cursor:pointer

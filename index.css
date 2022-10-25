@@ -12,17 +12,17 @@ html {
 
 body {
     margin: 0;
-    background: white;
+    
 }
 
 
 .swagger-ui .topbar {
-    background-color: #00893E;
+    background-color: lightsteelblue;
     padding: 10px 0;
 }
 
 .swagger-ui .topbar .download-url-wrapper .download-url-button {
-    background: #89bf04;
+    background: #0D112B;
     border: none;
     border-radius: 0 4px 4px 0;
     color: white;

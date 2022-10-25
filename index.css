@@ -23,14 +23,22 @@ body {
 	
 }
 
-.swagger-ui {
-	font-color: white;
-}
 
 
-h2.title {
-	font-color: white;
+.swagger-ui .info li, .swagger-ui .info p, .swagger-ui .info table {
+    color: white;
+    font-family: Verdana;
+    font-size: 14px;
+
+
+
+.swagger-ui .info .title {
+    color: white;
+    font-family: Verdana;
+    font-size: 36px;
+    margin: 0;
 }
+
 
 pre.base-url {
 	font-color: white;
@@ -47,12 +55,18 @@ pre.base-url {
 }
 
 
-.scheme-container {
-	background-color: #0D112B;
+.swagger-ui .scheme-container {
+    background: #0D112B;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 15%);
+    margin: 0 0 20px;
+    padding: 30px 0;
 }
 
+
+
+
 section.models.is-open {
-	background-color: #f8f8f8;
+	background-color: black;
 }
 
 

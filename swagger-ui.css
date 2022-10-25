@@ -1,7 +1,8 @@
 .swagger-ui{
     color:lightsteelblue;
     /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
-    font-family:sans-serif
+    font-family:sans-serif;
+	background-color: #0D112B
 }
 .swagger-ui html{
     -ms-text-size-adjust:100%;

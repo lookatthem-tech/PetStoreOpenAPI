@@ -23,7 +23,9 @@ body {
 }
 
 
-
+div.scheme-container {
+	background: #0D112B;
+}
 
 .swagger-ui .topbar .download-url-wrapper .download-url-button {
     

@@ -8387,7 +8387,7 @@
     font-weight:600
 }
 .swagger-ui .topbar{
-    background-color:#005151;
+    background:red;
     padding:10px 0
 }
 .swagger-ui .topbar .topbar-wrapper,.swagger-ui .topbar a{
@@ -8441,7 +8441,7 @@
     width:100%
 }
 .swagger-ui .topbar .download-url-wrapper .download-url-button{
-    background:#62a03f;
+    background:yellow;
     border:none;
     border-radius:0 4px 4px 0;
     color:#fff;

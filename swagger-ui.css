@@ -6912,7 +6912,7 @@
 }
 .swagger-ui .opblock-tag{
     align-items:center;
-    border-bottom:1px solid rgba(59,65,81,.3);
+    border-bottom:1px solid lightsteelblue;
     cursor:pointer;
     display:flex;
     padding:10px 20px 10px 10px;
@@ -7574,6 +7574,7 @@
 }
 .swagger-ui a.nostyle,.swagger-ui a.nostyle:visited{
     color:inherit;
+	background: transparent;
     cursor:pointer;
     text-decoration:inherit
 }
